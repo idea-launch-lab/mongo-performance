@@ -1,0 +1,1 @@
+{"content" : {"UserId" : "event_simulator_singleton", "AppName":"AB_Testing","SysId":"Fedora20","ProjId":"simulation:instr-singleton","NetAddr":"none","EvtTime":"1426186096","EvtType":"ab_testing","EvtDesc":"AB testing event"}}
